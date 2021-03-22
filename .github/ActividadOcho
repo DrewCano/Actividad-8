@@ -1,0 +1,22 @@
+//David
+//Cano Muñiz
+//6-W
+//22/3/2021
+//Noe Reyes
+
+void main() {
+  //Mostrar el numero mayor de dos numeros, teniendo en cuentaque pueden ser iguales
+
+  int numero1=100;
+  int numero2=100; 
+  
+  if (numero1>numero2){
+print("El primer numero en mayor");}
+ 
+ else if (numero2>numero1){
+print("El segundo numero es mayor");
+  }  
+else if (numero1==numero2){
+print("Los 2 numeros son iguales");
+}  
+}
